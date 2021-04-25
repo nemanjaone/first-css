@@ -1,16 +1,18 @@
 h1 {
-    color: indianred;
+    text-transform: uppercase;
+    font-family: monospace;
+    text-align: center;
+    font-weight: 100;
+    font-size: 40px;
+    letter-spacing: 20px;
+    text-decoration: plum underline wavy;
 }
 
 h2 {
-    color:indigo;
-}
-
-button {
-    color: yellow;
-    background-color: black;
+    text-decoration: underline;
 }
 
 p {
-    color: olive;
+    line-height: 2;
+    font-size: 20px;
 }
