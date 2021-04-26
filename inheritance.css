@@ -1,11 +1,50 @@
 body {
     color: purple;
+    margin: 0px;
 }
 
 section {
-    color: slateblue;
+    color: #264653;
+}
+
+p {
+    width: 350px;
+}
+
+h1,h2 {
+    width: 350px;
+    text-align: center;
+    margin: 10px;
+    border-bottom: 2px solid black;
+}
+
+#p1 {
+    background-color: #f4a261;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    padding: 5px;
+    margin: 10px;
+}
+
+#p2 {
+    background-color: #e76f51;
+    box-sizing: border-box;
+    border: 5px dashed black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.usernameform {
+    margin-left: 65px;
+
 }
 
 button {
-    color: inherit;
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 132px;
 }
