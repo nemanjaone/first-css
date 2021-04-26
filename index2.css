@@ -10,22 +10,22 @@ div {
     height: 95%
 }
 
-h1 {
+#ems h1 {
     font-size: 40px;
     border: 1px solid black;
     text-align: center;
 }
 
-h2 {
+#ems h2 {
     font-size: 2em;
     margin-left: 1em;
 }
 
-p {
+#ems p {
     font-size: 0.8em;
 }
 
-article {
+#ems {
     font-size: 30px;
 }
 
@@ -35,4 +35,12 @@ button {
     border-radius: 0.5em;
     background-color: goldenrod;
     color: white;
+}
+
+#ems ul {
+    font-size: 1.5em;
+}
+
+#rems ul{
+    font-size: 1.5rem;
 }
